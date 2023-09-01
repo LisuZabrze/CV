@@ -120,6 +120,8 @@ p {
     border-radius: 26px;
     transition: background-color 0.5s, color 0.5s;
     box-shadow: 0 0 20px grey;
+    min-width: 100px;
+	min-height: 20px;
 }
 
 .cv-download-link:hover {
